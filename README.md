@@ -7,7 +7,7 @@ Adds a reactive, type-safe backend to JS/TS apps: scaffold a running Next.js + C
 ## Install
 
 ```
-/plugins install https://github.com/get-convex/convex-kimi-plugin
+/plugins install https://github.com/convex/convex-kimi-plugin
 ```
 
 ## Layout
@@ -19,7 +19,7 @@ Adds a reactive, type-safe backend to JS/TS apps: scaffold a running Next.js + C
 
 ## Generated — do not hand-edit
 
-The skills and manifests here are **generated** from the [convex-agents](https://github.com/get-convex/convex-agents) hub (`content/capabilities/*.json` → `generators/forge.mjs` + `generators/kimi.mjs`). Fix knowledge there, regenerate, and PR the result here.
+The skills and manifests here are **generated** from the [convex-agents](https://github.com/convex/convex-agents) hub (`content/capabilities/*.json` → `generators/forge.mjs` + `generators/kimi.mjs`). Fix knowledge there, regenerate, and PR the result here.
 
 ## Privacy & data
 
