@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 // Dependency-free PostHog telemetry for the plugin's MCP server. A direct
-// port of the Claude plugin's hooks/analytics.mjs (convex/
+// port of the Claude plugin's hooks/analytics.mjs (get-convex/
 // convex-backend-skill) so both surfaces emit the SAME event names with the
 // SAME privacy gates to the SAME PostHog project — differing only in the
 // `harness` property ("kimi" here, "claude" there).
